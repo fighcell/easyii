@@ -1,9 +1,9 @@
 {
     "name": "noumo/easyii",
     "version": "dev-master",
-    "description": "Easy CMS based on Yii2 Framework - Development package",
+    "description": "Easy CMS based on Yii2 Framework - Development Extension Adapted from noumo/easyii package",
     "keywords": ["easyii"],
-    "homepage": "http://easyiicms.com",
+    "homepage": "http://COMING SOON",
     "type": "yii2-extension",
     "license": "GNU GPL V3",
     "minimum-stability": "dev",
@@ -17,6 +17,11 @@
             "name": "Ivan Vasilkov",
             "email": "noumohope@gmail.com",
             "role" : "Developer"
+        },
+        {
+            "name": "Ahmed Faisal",
+            "email": "ah.faisal@gmail.com",
+            "role": "Sub Developer"
         }
     ],
     "require": {
